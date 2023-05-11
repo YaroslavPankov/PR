@@ -1,0 +1,14 @@
+.t-align{
+    text-align: justify;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+.link{
+    color: pink;
+}
+.fw-bold{
+    font-weight: 800;
+    text-decoration: none;
+}
+.big-symbol{
+    text-transform: uppercase;
+}
